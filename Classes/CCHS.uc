@@ -23,6 +23,9 @@ function PreBeginPlay()
 	Log(">>CustomCrossHairScale started");
 	
 	Level.Spawn(class'CHS_HUD_Notify');
+
+	// Register mutator
+	Level.Game.BaseMutator.AddMutator(self);
 	Level.Game.RegisterMessageMutator(Self);
 }
 
