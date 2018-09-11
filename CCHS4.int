@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=CCHS4.CCHS,Class=Class,MetaClass=Engine.Mutator,Description="Custom Crosshair Scale,Scale your crosshair using the console command 'mutate ch_scale 1'")
