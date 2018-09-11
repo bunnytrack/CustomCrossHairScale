@@ -2,17 +2,22 @@
 
 Scale your Unreal Tournament crosshair.
 
-Unknown author.
+Original author unknown. Modified by Dizzy.
 
 ## Installation
 
-1. Place CCHS4.u in UT/System/.
-2. In UnrealTournament.ini, add:  
+### Online (Servers)
+
+1. Copy `.u` file to `UT/System/`
+2. In `UnrealTournament.ini`, add:  
+
    `ServerPackages=CCHS4`  
    `ServerActors=CCHS4.CCHS`
 
-Alternatively if you'd like to run the mod as a mutator, in your server/game's startup mutator string, add:  
-   `CCHS4.CCHS`
+### Offline (Single Player)
+
+1. Copy `.u` and `.int` files to `UT/System/`
+2. Add the "Custom Crosshair Scale" mutator when starting your game
 
 ## Usage in-game:
 1. Open console or press Tab
