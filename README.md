@@ -6,8 +6,11 @@ Unknown author
 
 ## Installation
 
+In UnrealTournament.ini, add:  
 `ServerPackages=CCHS3`  
-Mutator string: `CCHS3.CCHS`
+
+In your server/game's startup mutator string, add:  
+`CCHS3.CCHS`
 
 ## Usage in-game:
 `mutate ch_scale 1`
