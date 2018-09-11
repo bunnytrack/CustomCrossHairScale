@@ -8,8 +8,8 @@ Unknown author.
 
 1. Place CCHS4.u in UT/System/.
 2. In UnrealTournament.ini, add:  
-       ServerPackages=CCHS4  
-       ServerActors=CCHS4.CCHS 
+   `ServerPackages=CCHS4`  
+   `ServerActors=CCHS4.CCHS`
 
 Alternatively if you'd like to run the mod as a mutator, in your server/game's startup mutator string, add:  
    `CCHS4.CCHS`
