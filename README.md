@@ -2,7 +2,7 @@
 
 Scale your Unreal Tournament crosshair.
 
-Unknown author
+Unknown author.
 
 ## Installation
 
