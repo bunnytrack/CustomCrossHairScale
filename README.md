@@ -4,6 +4,10 @@ Scale your Unreal Tournament crosshair
 
 Unknown author
 
-ServerPackages=CCHS3
+## Installation
 
-Mutator: CCHS3.CCHS
+`ServerPackages=CCHS3`  
+Mutator string: `CCHS3.CCHS`
+
+## Usage in-game:
+`mutate ch_scale 1`
