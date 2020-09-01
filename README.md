@@ -4,6 +4,10 @@ Scale your Unreal Tournament crosshair.
 
 Original author unknown. Modified by Dizzy.
 
+## Limitations
+
+Works only with weapons which don't use a modified crosshair. For example, it won't work correctly with the sniper rifle. Designed primarily for InstaGib.
+
 ## Installation
 
 ### Online (Servers)
